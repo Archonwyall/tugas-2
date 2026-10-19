@@ -305,6 +305,7 @@ body.light-mode .card-aside {
     padding: 30px;
     border-radius: 12px;
     text-align: center;
+    /* Agar text berkumpul di tengah */
     width: 90%;
     max-width: 400px;
 }
